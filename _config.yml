@@ -10,12 +10,10 @@
 
 title: αѕняαf's blog                          # the main title
 
-tagline: A text-focused Jekyll theme.  # it will display as the sub-title
+tagline: ... blog for tech enthusiast.  # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
-  A minimal, portfolio, sidebar,
-  bootstrap Jekyll theme with responsive web design
-  and focuses on text presentation.
+  A personal blog for tech enthusiast
 
 # Replace with the website url, e.g. 'https://username.github.io'
 url: 'https://c4ash.github.io'
@@ -37,9 +35,10 @@ social:
     # The first element serves as the copyright owner's link
     - https://twitter.com/ashraf_r8     # change to your twitter homepage
     - https://github.com/c4ash       # change to your github homepage
+    - https://www.linkedin.com/in/ashrafconnect
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
-    - https://www.linkedin.com/in/ashrafconnect
+
 
 google_site_verification: google_meta_tag_verification # change to your verification string
 
